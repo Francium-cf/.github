@@ -4,7 +4,7 @@
 You can contact us via [Discord](https://discord.gg/franciumcf).
 
 ## Dev team
-[Aqua_Not](https://github.com/AquaNot), [pycat](https://github.com/pycatmc) and XeonLyfe
+[Aqua_Not](https://github.com/AquaNot), [pycat](https://github.com/pycatmc), [Vii](https://github.com/veryviiolent) and XeonLyfe
 
 ## Usage
 
