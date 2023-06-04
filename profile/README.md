@@ -4,11 +4,13 @@
 You can contact us via [Discord](https://discord.gg/franciumcf).
 
 ## Dev team
-[Aqua_Not](https://github.com/AquaNot), [pycat](https://github.com/pycatmc), [Vii](https://github.com/veryviiolent) and XeonLyfe
+[Aqua_Not](https://github.com/AquaNot), [pycat](https://github.com/pycatmc), [Violet](https://github.com/psychologists) and XeonLyfe
 
 ## Usage
 
 This is a crystal pvp client which is used to closet cheat without anyone knowing that you're actually cheating.
-It's been used by a ton of famous players, Like Qaxl, CommanderDucko, Vizzzo, dnalol, [Anker](https://github.com/AnkerFung), [Walksy](https://github.com/walksy), Functional Human, [Vii](https://github.com/veryviiolent) and alot more.
+It's been used by a ton of famous players, Like Qaxl, CommanderDucko, Vizzzo, dnalol, [Anker](https://github.com/AnkerFung), [Walksy](https://github.com/walksy), Functional Human, [Violet](https://github.com/psychologists) and alot more.
 
 ### Remember, you can always join our [discord](https://discord.gg/franciumcf)
+
+# FUCK MOCKER99
