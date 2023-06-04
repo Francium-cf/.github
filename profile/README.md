@@ -12,5 +12,3 @@ This is a crystal pvp client which is used to closet cheat without anyone knowin
 It's been used by a ton of famous players, Like Qaxl, CommanderDucko, Vizzzo, dnalol, [Anker](https://github.com/AnkerFung), [Walksy](https://github.com/walksy), Functional Human, [Violet](https://github.com/psychologists) and alot more.
 
 ### Remember, you can always join our [discord](https://discord.gg/franciumcf)
-
-# FUCK MOCKER99
