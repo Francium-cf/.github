@@ -4,7 +4,7 @@
 You can contact us via [Discord](https://discord.gg/francium0).
 
 ## Dev team
-[Aqua_Not](https://github.com/AquaNot), [pycat](https://github.com/pycatmc), [Violet](https://github.com/psychologists) [Snrios](https://github.com/snrios/)
+[Dynamic](https://github.com/dynnmic) & [lvstrng](https://github.com/lvstrnggg) & [Snrios](https://github.com/snrios)
 
 ## Usage
 
