@@ -4,7 +4,7 @@
 You can contact us via [Discord](https://discord.gg/qT9ejxWTdX).
 
 ## Dev team
-[Dynamic](https://github.com/dynnmic) & [lvstrng](https://github.com/lvstrnggg) & [Snrios](https://github.com/snrios)
+[ablue](https://github.com/thebluuu) & [lvstrng](https://github.com/lvstrnggg) & [Snrios](https://github.com/snrios)
 
 ## Usage
 
