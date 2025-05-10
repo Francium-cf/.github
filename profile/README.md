@@ -1,7 +1,7 @@
 # Francium And what It's all about
 
 *Based ghost client for CPvP*   
-You can contact us via [Discord](https://discord.gg/qT9ejxWTdX).
+You can contact us via [Discord](https://discord.gg/7Ja2Pzbfcx).
 
 ## Dev team
 [ablue](https://github.com/thebluuu) & [lvstrng](https://github.com/lvstrnggg) and [usomi](https://github.com/tyronetheqt)
