@@ -4,7 +4,7 @@
 You can contact us via [Discord](https://discord.gg/qT9ejxWTdX).
 
 ## Dev team
-[ablue](https://github.com/thebluuu) & [lvstrng](https://github.com/lvstrnggg) and [usomi](https://github.com/tyronetheq)
+[ablue](https://github.com/thebluuu) & [lvstrng](https://github.com/lvstrnggg) and [usomi](https://github.com/tyronetheqt)
 
 ## Usage
 
